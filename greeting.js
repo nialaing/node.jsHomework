@@ -1,14 +1,9 @@
-// The `greeting` file mush have a `greeting variable` with a `string` value
+// I'm making a variable for 'greeting'.
 
-var greeting = "Good Morning";
+const greeting = function (greeting){}
 
-console.log
+console.log('greeting');
 
+// I'm creating a module export because I want to use this in other places.
 
-
-
-
-
-// The `greeting` file must use `module.exports` 
-
-module.exports = greeting; 
+module.exports = greeting
